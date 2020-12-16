@@ -1,15 +1,11 @@
 {
   "TestURLs": 
   [
-    //Workbench v1_7_0 PA Workbench Headers
-    "https://apps.powerapps.com/play/05af3285-c4e6-4991-986f-be00337554fe?tenantId=ba9bfdf7-efef-4841-aa68-8ca617e91ac0&__PATestSuiteId=c7b7171d-a667-4152-b6d3-12467f037555&source=testStudioLink",
-    //Workbench v1_7_0 PA Clause Add/Edit/Delete
+    
+    "https://apps.powerapps.com/play/05af3285-c4e6-4991-986f-be00337554fe?tenantId=ba9bfdf7-efef-4841-aa68-8ca617e91ac0&__PATestSuiteId=c7b7171d-a667-4152-b6d3-12467f037555&source=testStudioLink"
     "https://apps.powerapps.com/play/05af3285-c4e6-4991-986f-be00337554fe?tenantId=ba9bfdf7-efef-4841-aa68-8ca617e91ac0&__PATestSuiteId=25d5dea7-312c-4bd1-bdc6-9ba9aa5eb2f2&source=testStudioLink",
-    //Workbench v1_7_0 PA Clause Add/Edit/Delete
     "https://apps.powerapps.com/play/05af3285-c4e6-4991-986f-be00337554fe?tenantId=ba9bfdf7-efef-4841-aa68-8ca617e91ac0&__PATestSuiteId=750dd538-c6a0-421d-b43e-c1b9c4f7c35a&source=testStudioLink",
-    //Workbench v1_6_0 PBI kycPackageXclause Add
     "https://apps.powerapps.com/play/97adef5a-78d9-4556-a516-a639ad525058?tenantId=ba9bfdf7-efef-4841-aa68-8ca617e91ac0&__PATestCaseId=5ddee592-c7dd-4035-90fb-8bffe19042b2&source=testStudioLink"
-    //Workbench v1_6_0 PBI kycPackage Navigation, Add, Edit, Delete
     "https://apps.powerapps.com/play/6f33d44e-d185-48e2-ab8b-6aefe714ba6e?tenantId=ba9bfdf7-efef-4841-aa68-8ca617e91ac0&__PATestSuiteId=ca393626-fa53-4d09-b999-ddbf6296a1dc&source=testStudioLink"
   ]
 }
