@@ -1,8 +1,14 @@
 {
   "TestURLs": 
   [
-    "https://apps.powerapps.com/play/05af3285-c4e6-4991-986f-be00337554fe?tenantId=ba9bfdf7-efef-4841-aa68-8ca617e91ac0&__PATestSuiteId=c7b7171d-a667-4152-b6d3-12467f037555&source=testStudioLink",
-    "https://apps.powerapps.com/play/6f33d44e-d185-48e2-ab8b-6aefe714ba6e?tenantId=ba9bfdf7-efef-4841-aa68-8ca617e91ac0&__PATestSuiteId=ca393626-fa53-4d09-b999-ddbf6296a1dc&source=testStudioLink",
-    "https://apps.powerapps.com/play/97adef5a-78d9-4556-a516-a639ad525058?tenantId=ba9bfdf7-efef-4841-aa68-8ca617e91ac0&__PATestSuiteId=10986f5f-ff71-41dd-b1db-7a1551895f3e&source=testStudioLink"
+    "https://apps.powerapps.com/play/aeb1aa62-a144-4810-8d30-37a32a6ee43f?tenantId=ba9bfdf7-efef-4841-aa68-8ca617e91ac0&__PATestSuiteId=c7b7171d-a667-4152-b6d3-12467f037555&source=testStudioLink",
+    "https://apps.powerapps.com/play/aeb1aa62-a144-4810-8d30-37a32a6ee43f?tenantId=ba9bfdf7-efef-4841-aa68-8ca617e91ac0&__PATestSuiteId=25d5dea7-312c-4bd1-bdc6-9ba9aa5eb2f2&source=testStudioLink",
+    "https://apps.powerapps.com/play/aeb1aa62-a144-4810-8d30-37a32a6ee43f?tenantId=ba9bfdf7-efef-4841-aa68-8ca617e91ac0&__PATestSuiteId=c819b0aa-4e2d-4246-a835-9028ae9cfcdf&source=testStudioLink",
+    "https://apps.powerapps.com/play/aeb1aa62-a144-4810-8d30-37a32a6ee43f?tenantId=ba9bfdf7-efef-4841-aa68-8ca617e91ac0&__PATestSuiteId=750dd538-c6a0-421d-b43e-c1b9c4f7c35a&source=testStudioLink",
+    "https://apps.powerapps.com/play/aeb1aa62-a144-4810-8d30-37a32a6ee43f?tenantId=ba9bfdf7-efef-4841-aa68-8ca617e91ac0&__PATestSuiteId=fbf57701-6492-4eef-b75f-2a84340eb726&source=testStudioLink",
+    "https://apps.powerapps.com/play/aeb1aa62-a144-4810-8d30-37a32a6ee43f?tenantId=ba9bfdf7-efef-4841-aa68-8ca617e91ac0&__PATestSuiteId=27431bf9-814d-410a-a8e4-dc29994cc217&source=testStudioLink",
+    "https://apps.powerapps.com/play/aeb1aa62-a144-4810-8d30-37a32a6ee43f?tenantId=ba9bfdf7-efef-4841-aa68-8ca617e91ac0&__PATestSuiteId=d1713329-3154-44e4-bcbd-74c28c5804da&source=testStudioLink",
+    "https://apps.powerapps.com/play/aeb1aa62-a144-4810-8d30-37a32a6ee43f?tenantId=ba9bfdf7-efef-4841-aa68-8ca617e91ac0&__PATestSuiteId=25efb1e8-a8b8-43ae-8eb8-710b3dc15607&source=testStudioLink",
+    "https://apps.powerapps.com/play/aeb1aa62-a144-4810-8d30-37a32a6ee43f?tenantId=ba9bfdf7-efef-4841-aa68-8ca617e91ac0&__PATestSuiteId=e91a9f18-7133-4fb1-bb1a-32b2547a557a&source=testStudioLink"
   ]
 }
